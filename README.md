@@ -4,6 +4,8 @@
 
 ## Skills 一览
 
-| Skill | 说明 |
-|-------|------|
-| **project-init** | 项目初始化五步工作流：需求澄清 → 架构设计 → 可行性分析 → 开发计划 → 规则与文档索引
+| Skill | 说明 | 依赖 |
+|-------|------|------|
+| **proj-flow** | 项目全生命周期管理：初始化→需求排序→阶段执行→阶段收尾 | neat-freak |
+
+neat skill链接为卡神github： https://github.com/KKKKhazix/khazix-skills/tree/main/neat-freak
