@@ -3,7 +3,9 @@ name: proj-flow
 description: 项目全生命周期管理统一入口 — 覆盖四大场景：项目初始化（需求澄清+架构设计+风险评估+开发计划+规则建立）、需求整理与排序（[NEW]/[FIX]/[Q]三级分类+依赖拓扑排序+复杂度评分）、阶段执行管理（逐阶段确认+上下文监控+提交策略）、阶段收尾（构建验证+回归测试+neat-freak+git commit）。触发词：初始化项目、新建项目、从零开始、项目初始化、整理需求、需求排序、排一下需求、需求计划、任务拆解、规划任务、整理依赖、开始执行、执行阶段、继续执行、开始开发、阶段完成、收尾、阶段收尾、验证清单、连招收尾、create a new project、scaffold a project。
 ---
 
-# Project Init — 项目全生命周期管理
+> **依赖**：本 skill 的阶段收尾和上下文压缩依赖第三方 skill `neat-freak`（卡兹克，MIT License）。请确保已安装，否则收尾流程会降级为手动同步。 neat skill链接为卡神github： https://github.com/KKKKhazix/khazix-skills/tree/main/neat-freak
+
+# Project Flow — 项目全生命周期流程管理
 
 统一入口，覆盖从项目初始化到阶段收尾的完整开发流程。所有详细工作流存放在 `sub/` 目录下，按需读取。
 
